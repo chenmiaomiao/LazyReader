@@ -13,7 +13,7 @@ LazyReader is designed to enhance your reading experience. It offers an AI-power
 
 ## How to Use
 
-1. **Clone the Repository:** Clone this repository to your local machine using `https://github.com/<YourUserName>/LazyReader.git`
+1. **Clone the Repository:** Clone this repository to your local machine using `https://github.com/chenmiaomiao/LazyReader.git`
 2. **Install Dependencies:** Run `pip install -r requirements.txt` to install the necessary dependencies.
 3. **Run the Application:** Use `python app.py` to start the LazyReader application.
 
